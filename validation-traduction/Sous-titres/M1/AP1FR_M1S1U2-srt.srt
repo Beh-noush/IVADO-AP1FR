@@ -1,6 +1,6 @@
 0
 00:00:13,710 --> 00:00:20,619
-Alors maintenant, nous verrons la méthodologie associée à l'apprentissage automatique. C'est une
+Alors, nous verrons la méthodologie associée à l'apprentissage automatique. C'est une
 
 1
 00:00:20,619 --> 00:00:28,720
