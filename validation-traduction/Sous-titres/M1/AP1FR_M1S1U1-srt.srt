@@ -24,7 +24,7 @@ de la littérature de recherche scientifique en
 
 6
 00:00:29,970 --> 00:00:32,150
-apprentissage automatique (AA) et en apprentissage profond (AP)
+apprentissage automatique (AA) et en apprentissage profond (AP/DL)
 
 7
 00:00:32,150 --> 00:00:34,500
@@ -76,7 +76,7 @@ différence entre
 
 19
 00:01:03,770 --> 00:01:05,610
-l'intelligence artificielle (IA) et l'apprentissage automatique (AA).
+l'intelligence artificielle (IA/AI) et l'apprentissage automatique (AA/ML).
 
 20
 00:01:05,610 --> 00:01:08,720
@@ -268,7 +268,7 @@ L'une des plus importantes propriétés des humains et des animaux
 
 67
 00:03:26,990 --> 00:03:30,760
-est l'apprentissage, et l'apprentissage automatique (AA)
+est l'apprentissage, et l'apprentissage automatique (ML)
 
 68
 00:03:30,760 --> 00:03:32,260
@@ -344,15 +344,15 @@ Les nouvelles techniques et
 
 86
 00:04:19,930 --> 00:04:28,720
-l'apprentissage profond (AP) sont un ensemble de techniques
+l'apprentissage profond (DL) sont un ensemble de techniques
 
 87
 00:04:28,720 --> 00:04:29,880
-d'apprentissage automatique(AA):
+d'apprentissage automatique(ML):
 
 88
 00:04:29,880 --> 00:04:32,910
-c'est un sous-ensemble de l'AA qui
+c'est un sous-ensemble du ML qui
 
 89
 00:04:32,910 --> 00:04:35,330
@@ -452,7 +452,7 @@ changement de paradigme d'il y a dix ans. Les gens
 
 113
 00:05:36,639 --> 00:05:38,659
-ont réalisé que l'apprentissage profond (AP) est
+ont réalisé que l'apprentissage profond (DL) est
 
 114
 00:05:38,659 --> 00:05:41,029
@@ -460,7 +460,7 @@ quelque chose qui fonctionne très bien pour
 
 115
 00:05:41,029 --> 00:05:44,500
-les types de données complexes. Maintenant, l'AP prend de plus en
+les types de données complexes. Maintenant, le DL prend de plus en
 
 116
 00:05:44,500 --> 00:05:47,960
