@@ -76,7 +76,7 @@ frontière des États-Unis. Nous étions donc déjà en train de recueillir des 
 
 19
 00:02:19,450 --> 00:02:27,170
-pour l'AA dans les années 1930. Pour cet exemple, on peut voir que si je demande à un
+pour le ML dans les années 1930. Pour cet exemple, on peut voir que si je demande à un
 
 20
 00:02:27,170 --> 00:02:32,230
