@@ -1,6 +1,6 @@
 0
 00:00:13,710 --> 00:00:20,619
-test Alors maintenant, nous verrons la méthodologie associée à l'apprentissage automatique. C'est une
+Alors maintenant, nous verrons la méthodologie associée à l'apprentissage automatique. C'est une
 
 1
 00:00:20,619 --> 00:00:28,720
@@ -164,7 +164,7 @@ la tâche est très difficile à décrire, on verra des exemples, et il est plus
 
 41
 00:04:09,909 --> 00:04:15,579
-chercher des données, alors l'AA est probablement une bonne idée. Si les données
+chercher des données, alors le ML est probablement une bonne idée. Si les données
 
 42
 00:04:15,579 --> 00:04:21,130
@@ -212,7 +212,7 @@ Voyons quelques exemples informels de tâches: l'une des premières tâches que 
 
 53
 00:05:22,159 --> 00:05:27,349
-gens voulaient résoudre avec l'AA était la détection des pourriels. Je suppose que
+gens voulaient résoudre avec le ML était la détection des pourriels. Je suppose que
 
 54
 00:05:27,349 --> 00:05:33,319
@@ -272,7 +272,7 @@ dans les données. Puisque la définition est difficile à formaliser ou à prog
 
 68
 00:06:55,880 --> 00:07:00,530
-l'AA est un bon candidat: il suffit d'obtenir des données
+le ML est un bon candidat: il suffit d'obtenir des données
 
 69
 00:07:00,530 --> 00:07:06,080
@@ -296,7 +296,7 @@ experts de véritablement comprendre la série d'événements qui conduira à l'
 
 74
 00:07:26,540 --> 00:07:32,930
-Peut-être qu'utiliser l'AA peut vous aider à comprendre cette série d'événements.
+Peut-être qu'utiliser le ML peut vous aider à comprendre cette série d'événements.
 
 75
 00:07:32,930 --> 00:07:38,150
@@ -336,7 +336,7 @@ une question possible: est-ce une tâche réaliste? Je sais donc que dans les
 
 84
 00:08:25,340 --> 00:08:30,580
-journaux, nous pouvons voir que l'IA résoudra tous les problèmes de la société, mais
+journaux, nous pouvons voir que l'AI résoudra tous les problèmes de la société, mais
 
 85
 00:08:30,580 --> 00:08:38,410
@@ -352,7 +352,7 @@ réalisable ou non: vous pouvez demander à ceux autour de vous qui suivent
 
 88
 00:08:52,280 --> 00:08:59,090
-de près l'IA, mais je vous recommande de suivre la littérature scientifique: vous
+de près l'AI, mais je vous recommande de suivre la littérature scientifique: vous
 
 89
 00:08:59,090 --> 00:09:02,390
@@ -480,7 +480,7 @@ doit véritablement évaluer votre système. Si vous avez des algorithmes qui ne
 
 120
 00:11:54,920 --> 00:11:58,970
-de l'AA, il faut tout de même utiliser la même mesure de performance pour comparer les
+du ML, il faut tout de même utiliser la même mesure de performance pour comparer les
 
 121
 00:11:58,970 --> 00:12:04,579
