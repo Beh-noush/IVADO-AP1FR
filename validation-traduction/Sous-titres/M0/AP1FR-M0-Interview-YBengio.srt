@@ -68,7 +68,7 @@ Alors pourquoi un tel MOOC est-il nécessaire ?
 
 17
 00:01:27,500 --> 00:01:34,286
-Parce que le monde change grâce à l'IA et l’apprentissage profond va être utilisé dans toute la
+Parce que le monde change grâce à l'AI et l’apprentissage profond va être utilisé dans toute la
 
 18
 00:01:34,310 --> 00:01:38,396
@@ -100,7 +100,7 @@ Depuis de nombreuses années, nous avons réalisé qu'il
 
 25
 00:02:02,750 --> 00:02:09,506
-existe une demande énorme et un grand besoin de compétences autour de l'IA, de l’apprentissage automatique et
+existe une demande énorme et un grand besoin de compétences autour de l'AI, de l’apprentissage automatique et
 
 26
 00:02:09,530 --> 00:02:14,066
@@ -140,7 +140,7 @@ Eh bien, l’apprentissage profond est la poursuite de la recherche dans les ré
 
 35
 00:02:49,480 --> 00:02:56,206
-artificiels que vous connaissez, fait par les chercheurs en IA non dans le but de
+artificiels que vous connaissez, fait par les chercheurs en AI non dans le but de
 
 36
 00:02:56,230 --> 00:03:02,366
@@ -256,7 +256,7 @@ Oui, malheureusement, c'est l'une des utilisations de la
 
 64
 00:05:37,720 --> 00:05:45,720
-haute technologie et de l'IA qui est problématique dans mon esprit. Le cas le plus évident
+haute technologie et de l'AI qui est problématique dans mon esprit. Le cas le plus évident
 
 65
 00:05:46,320 --> 00:05:54,320
@@ -332,7 +332,7 @@ l'énergie actuelle des étudiants, des chercheurs et des entreprises à la rech
 
 83
 00:07:35,390 --> 00:07:39,566
-ce que nous appelons l'IA pour des applicaition de bien social. Il s'agit donc de choses
+ce que nous appelons l'AI pour des applicaition de bien social. Il s'agit donc de choses
 
 84
 00:07:39,590 --> 00:07:46,436
@@ -412,7 +412,7 @@ y a donc vraiment beaucoup d'applications et de nombreuses personnes à travers 
 
 103
 00:09:24,000 --> 00:09:28,956
-demandent maintenant comment unir nos forces pour collaborer sur ces types d'IA pour
+demandent maintenant comment unir nos forces pour collaborer sur ces types d'AI pour
 
 104
 00:09:28,980 --> 00:09:33,996
@@ -424,7 +424,7 @@ du monde entier afin qu'ils puissent également apprendre et peut-être particip
 
 106
 00:09:38,850 --> 00:09:44,166
-Oui, cette idée de démocratiser les connaissances sur l'IA et l’apprentissage profond est super
+Oui, cette idée de démocratiser les connaissances sur l'AI et l’apprentissage profond est super
 
 107
 00:09:44,190 --> 00:09:50,856
