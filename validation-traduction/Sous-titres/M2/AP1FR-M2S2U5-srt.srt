@@ -172,7 +172,7 @@ ou pas si je change ce pixel. J'aurai ces informations pour tous les pixels de m
 
 44
 00:04:29,919 --> 00:04:34,850
-image et ce que certains chercheurs du
+image et ce que certains chercheurs de
 
 45
 00:04:34,850 --> 00:04:41,070
