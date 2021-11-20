@@ -536,7 +536,7 @@ multiplication matricielle dans le cas des MLP, elle est très analogue à la
 
 135
 00:10:39,660 --> 00:10:47,260
-convolution des RNC, la seule différence est vraiment l'opération que nous utilisons.
+convolution des CNN, la seule différence est vraiment l'opération que nous utilisons.
 
 136
 00:10:47,260 --> 00:10:52,390
