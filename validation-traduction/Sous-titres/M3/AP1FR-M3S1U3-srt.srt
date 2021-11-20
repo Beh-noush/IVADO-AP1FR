@@ -1,10 +1,10 @@
 1
 00:00:13,179 --> 00:00:20,060
-Maintenant que nous avons examiné la plupart des opérations courantes dans les RNC, regardons les
+Maintenant que nous avons examiné la plupart des opérations courantes dans les CNN, regardons les
 
 2
 00:00:20,060 --> 00:00:25,700
-différents éléments constitutifs. Les RNC utiliseront généralement
+différents éléments constitutifs. Les CNN utiliseront généralement
 
 3
 00:00:25,700 --> 00:00:29,599
@@ -24,7 +24,7 @@ pièces qui sont très similaires d'une architecture à une autre.
 
 7
 00:00:43,010 --> 00:00:48,920
-Commençons par revenir à la raison pour laquelle nous utilisons des RNC: notre RNC peut
+Commençons par revenir à la raison pour laquelle nous utilisons des CNN: notre CNN peut
 
 8
 00:00:48,920 --> 00:00:53,360
@@ -48,7 +48,7 @@ représente un chien. Idéalement, nous avons notre image en entrée, nous avons
 
 13
 00:01:13,759 --> 00:01:20,960
-sorte de boîte noire RNC et elle retourne une distribution de probabilités.
+sorte de boîte noire CNN et elle retourne une distribution de probabilités.
 
 14
 00:01:20,960 --> 00:01:26,479
