@@ -1,14 +1,14 @@
-﻿1
+1
 00:00:13,340 --> 00:00:17,300
 Maintenant nous allons faire un petit détour et nous allons parler
 
 2
 00:00:17,300 --> 00:00:23,330
-des réseaux antagonistes génératifs, généralement appelés RAG.
+des réseaux antagonistes génératifs, généralement appelés RAG/GAN.
 
 3
 00:00:23,330 --> 00:00:29,220
-Les RAG sont donc un type d'algorithme particulier et leur fonctionnement est très intéressant.
+Les GAN sont donc un type d'algorithme particulier et leur fonctionnement est très intéressant.
 
 4
 00:00:29,220 --> 00:00:35,520
@@ -16,7 +16,7 @@ On fait entrer en compétition deux réseaux de neurones distincts.
 
 5
 00:00:35,520 --> 00:00:39,719
-Lorsqu’on parle de RAG, on a généralement deux types de réseaux qui sont placés en compétition.
+Lorsqu’on parle de GAN, on a généralement deux types de réseaux qui sont placés en compétition.
 
 6
 00:00:39,719 --> 00:00:44,399
@@ -156,7 +156,7 @@ le discriminateur essaie de comprendre comment fonctionne le générateur.
 
 40
 00:03:21,180 --> 00:03:27,509
-Donc c'est l'ensemble de l'équation est à l'origine de l'implémentation du RAG.
+Donc c'est l'ensemble de l'équation est à l'origine de l'implémentation du GAN.
 
 41
 00:03:27,509 --> 00:03:33,269
@@ -256,7 +256,7 @@ nous pouvons générer des choses vraiment intéressantes.
 
 65
 00:05:22,729 --> 00:05:28,159
-Voici une image de l'article original sur les RAG et donc ici vous voyez des chiffres qui ont été générés.
+Voici une image de l'article original sur les GAN et donc ici vous voyez des chiffres qui ont été générés.
 
 66
 00:05:28,159 --> 00:05:33,169
@@ -292,7 +292,7 @@ Parfois les images font un peu peur, comme celle-ci est un peu effrayante,
 
 74
 00:06:03,349 --> 00:06:07,759
-mais c'était le premier article sur les RAG
+mais c'était le premier article sur les GAN
 
 75
 00:06:07,759 --> 00:06:14,479
@@ -316,7 +316,7 @@ peut-être si on mettent les réseaux de neurones en compétition les uns contre
 
 80
 00:06:31,610 --> 00:06:36,560
-Il se trouve que ça fonctionne et maintenant les RAG constituent un domaine à part entière.
+Il se trouve que ça fonctionne et maintenant les GAN constituent un domaine à part entière.
 
 81
 00:06:36,560 --> 00:06:40,070
@@ -332,11 +332,11 @@ mais ils remercient définitivement Les Trois Brasseurs dans leur article. Alors
 
 84
 00:06:51,440 --> 00:06:55,040
-En fait, une fois que l'article sur les RAG a été publié, les gens ont pensé à appliquer
+En fait, une fois que l'article sur les GAN a été publié, les gens ont pensé à appliquer
 
 85
 00:06:55,040 --> 00:06:58,490
-les réseaux neuronaux convolutifs aux RAG et voyons ce que nous pouvons faire avec cela.
+les réseaux neuronaux convolutifs aux GAN et voyons ce que nous pouvons faire avec cela.
 
 86
 00:06:58,490 --> 00:07:03,020
@@ -388,7 +388,7 @@ ils obtiennent un homme souriant. Donc ils démontrent qu'en utilisant les carac
 
 98
 00:07:53,750 --> 00:07:59,560
-les réseaux apprennent, ceux-ci sont capables de faire ce calcul dans cet espace de RAG.
+les réseaux apprennent, ceux-ci sont capables de faire ce calcul dans cet espace de GAN.
 
 99
 00:07:59,560 --> 00:08:03,890
@@ -516,7 +516,7 @@ des représentations de dessins animés basées sur des images réelles.
 
 130
 00:10:31,780 --> 00:10:38,000
-Donc je vais présenter un peu plus de travail sur les RAG. Quelque chose de vraiment intéressant est
+Donc je vais présenter un peu plus de travail sur les GAN. Quelque chose de vraiment intéressant est
 
 131
 00:10:38,000 --> 00:10:43,490
@@ -596,7 +596,7 @@ mais là encore, leur contribution est la perte cyclique
 
 150
 00:12:08,600 --> 00:12:12,950
-qu'ils ont ajouté à la perte du RAG que nous avons vu plus tôt,
+qu'ils ont ajouté à la perte du GAN que nous avons vu plus tôt,
 
 151
 00:12:12,950 --> 00:12:16,730
@@ -660,7 +660,7 @@ Une autre application vraiment sympa aussi est le projet GANfield. Donc quelqu'u
 
 166
 00:13:22,840 --> 00:13:28,690
-d'utiliser les RAG pour générer des images de Garfield.
+d'utiliser les GAN pour générer des images de Garfield.
 
 167
 00:13:28,690 --> 00:13:34,240
