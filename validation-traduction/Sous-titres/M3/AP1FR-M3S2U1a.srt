@@ -88,7 +88,7 @@ Commençons donc par mettre en place notre problème.
 
 23
 00:02:01,860 --> 00:02:07,140
-Nous allons donc examiner un cas très simple : nous avons donc un RNC, notre entrée x est une matrice trois par trois que nous avons ici
+Nous allons donc examiner un cas très simple : nous avons donc un CNN, notre entrée x est une matrice trois par trois que nous avons ici
 
 24
 00:02:07,140 --> 00:02:12,090
