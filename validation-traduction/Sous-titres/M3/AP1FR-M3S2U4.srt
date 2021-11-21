@@ -1,14 +1,14 @@
 ﻿1
 00:00:13,190 --> 00:00:18,119
-Alors nous avons fait un résumé des travaux sur les RAG.
+Alors nous avons fait un résumé des travaux sur les GAN.
 
 2
 00:00:18,119 --> 00:00:21,660
-Il existe des travaux très intéressants qui peuvent être accomplis avec les RAG et beaucoup de RNC qui sont utilisés en arrière.
+Il existe des travaux très intéressants qui peuvent être accomplis avec les GAN et beaucoup de CNN qui sont utilisés en arrière.
 
 3
 00:00:21,660 --> 00:00:27,270
-Maintenant je veux parler un peu des ensembles de données de RNC,
+Maintenant je veux parler un peu des ensembles de données de CNN,
 
 4
 00:00:27,270 --> 00:00:34,050
@@ -96,11 +96,11 @@ Nous avons 10 classes de 6 000 images et vous pouvez voir les différentes clas
 
 25
 00:02:11,489 --> 00:02:18,180
-avions, automobiles, oiseaux, entre autres. Donc c'est typiquement utilisé pour les RNC
+avions, automobiles, oiseaux, entre autres. Donc c'est typiquement utilisé pour les CNN
 
 26
 00:02:18,180 --> 00:02:22,500
-quand nous traitons des images RVB pour essayer différents modèles de test ou des expériences de test.
+quand nous traitons des images RVB/RGB pour essayer différents modèles de test ou des expériences de test.
 
 27
 00:02:22,500 --> 00:02:27,340
@@ -184,7 +184,7 @@ C’est un des ensembles de données les plus utilisés pour la classification d
 
 47
 00:04:00,580 --> 00:04:06,330
-il a permis nombreuses découvertes importantes dans les RNC.
+il a permis nombreuses découvertes importantes dans les CNN.
 
 48
 00:04:06,330 --> 00:04:10,570
@@ -556,11 +556,11 @@ dans lequel votre réseau neuronal peut apprendre de ce simulateur.
 
 140
 00:11:04,290 --> 00:11:07,860
-Vous pouvez aussi utiliser les RAG pour générer des images. Nous avons vu que les RAG peuvent générer
+Vous pouvez aussi utiliser les GAN pour générer des images. Nous avons vu que les GAN peuvent générer
 
 141
 00:11:07,860 --> 00:11:13,820
-des images réalistes. Vous voulez peut-être entraîner les RAG à générer des données supplémentaires.
+des images réalistes. Vous voulez peut-être entraîner les GAN à générer des données supplémentaires.
 
 142
 00:11:13,820 --> 00:11:18,470
