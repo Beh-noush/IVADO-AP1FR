@@ -1,4 +1,4 @@
-﻿1
+1
 00:00:13,309 --> 00:00:19,470
 Maintenant que nous avons survécu aux calculs, examinons quelques applications intéressantes
 
@@ -224,7 +224,7 @@ et en tant qu'utilisateur, vous ne devez pas nécessairement comprendre
 
 57
 00:04:14,190 --> 00:04:18,239
-toutes les implémentations derrière le RNC mais vous pouvez toujours utiliser
+toutes les implémentations derrière le CNN mais vous pouvez toujours utiliser
 
 58
 00:04:18,239 --> 00:04:24,780
@@ -256,7 +256,7 @@ Il s'agit donc d'un cas d'utilisation très intéressant où l'apprentissage pro
 
 65
 00:04:51,220 --> 00:04:59,680
-Une autre application très amusante est que les RNC peuvent être utilisées pour aider les modèles à apprendre à générer des légendes. 
+Une autre application très amusante est que les CNN peuvent être utilisées pour aider les modèles à apprendre à générer des légendes. 
 
 66
 00:04:59,680 --> 00:05:05,139
@@ -396,7 +396,7 @@ les routes en se basant sur l'imagerie satellite et, encore une fois, nous preno
 
 100
 00:07:34,870 --> 00:07:40,270
-nous la faisons passer par un RNC et celui-ci prédit ces différentes lignes qui
+nous la faisons passer par un CNN et celui-ci prédit ces différentes lignes qui
 
 101
 00:07:40,270 --> 00:07:46,180
@@ -420,7 +420,7 @@ comment cela pourrait être utile pour des tâches comme la planification urbain
 
 106
 00:08:05,320 --> 00:08:10,840
-mais les RNC peuvent aussi être appliqués à une grande variété d'autres types d'entrées.
+mais les CNN peuvent aussi être appliqués à une grande variété d'autres types d'entrées.
 
 107
 00:08:10,840 --> 00:08:16,659
