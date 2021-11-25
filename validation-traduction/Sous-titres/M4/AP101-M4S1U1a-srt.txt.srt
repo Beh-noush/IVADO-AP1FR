@@ -96,7 +96,7 @@ Afin de surmonter ce problème, nous introduirons des architectures de RNN plus 
 
 25
 00:02:17,819 --> 00:02:22,830
-au prochain point : les réseaux de neurones récurrent à longue mémoire à court terme, ou LMCT. Vous en avez peut-être déjà entendu parler.
+au prochain point : les réseaux de neurones récurrent à longue mémoire à court terme, ou LMCT/LSTM. Vous en avez peut-être déjà entendu parler.
 
 26
 00:02:22,830 --> 00:02:26,730
