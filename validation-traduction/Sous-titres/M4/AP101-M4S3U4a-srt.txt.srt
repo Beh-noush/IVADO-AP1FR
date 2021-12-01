@@ -1,10 +1,10 @@
-﻿1
+1
 00:00:12,950 --> 00:00:19,380
 À ce stade, je vais récapituler rapidement ce que nous avons vu. Alors nous avons donc introduit
 
 2
 00:00:19,380 --> 00:00:26,400
-le TLN et en particulier, nous avons examiné certaines tâches en TLN : nous avons vu que nous avons différents groupes de tâches,
+le NLP et en particulier, nous avons examiné certaines tâches en NLP : nous avons vu que nous avons différents groupes de tâches,
 
 3
 00:00:26,400 --> 00:00:31,500
@@ -24,7 +24,7 @@ est de trouver la relation entre les mots et la sémantique.
 
 7
 00:00:51,360 --> 00:00:56,879
-Nous devons toujours le faire lorsque nous traitons des tâches de TLN et
+Nous devons toujours le faire lorsque nous traitons des tâches de NLP et
 
 8
 00:00:56,879 --> 00:01:02,129
