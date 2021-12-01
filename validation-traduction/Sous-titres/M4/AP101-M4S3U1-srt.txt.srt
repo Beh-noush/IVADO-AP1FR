@@ -1,11 +1,11 @@
 ﻿1
 00:00:13,990 --> 00:00:16,260
 
-Alors commençons par le TLN.
+Alors commençons par le TLN/NLP.
 
 2
 00:00:16,260 --> 00:00:22,100
-Voici donc la définition du TLN, copiée de Wikipedia
+Voici donc la définition du NLP, copiée de Wikipedia
 
 3
 00:00:22,100 --> 00:00:24,910
@@ -13,7 +13,7 @@ Mais je pense que la partie intéressante est celle en gras.
 
 4
 00:00:24,910 --> 00:00:30,430
-Le TLN s'intéresse donc essentiellement à l'interaction entre les humains
+Le NLP s'intéresse donc essentiellement à l'interaction entre les humains
 
 5
 00:00:30,430 --> 00:00:36,050
@@ -37,7 +37,7 @@ les langages de programmation.
 
 10
 00:00:52,030 --> 00:00:57,930
-Et en TLN, les tâches sont nombreuses et dans les diapositives suivantes, nous
+Et en NLP, les tâches sont nombreuses et dans les diapositives suivantes, nous
 
 11
 00:00:57,930 --> 00:01:03,589
@@ -177,7 +177,7 @@ nous avions notamment une étiquette spéciale qui indique simplement que le mot
 
 45
 00:03:11,030 --> 00:03:15,610
-Et ici vous voyez la sortie et nous avons vu cela avec les RNR dans
+Et ici vous voyez la sortie et nous avons vu cela avec les RNN dans
 
 46
 00:03:15,610 --> 00:03:19,030
@@ -233,7 +233,7 @@ mais c'est une bonne chose car ici nous pouvons insérer tous les modèles
 
 59
 00:04:07,390 --> 00:04:11,080
-que vous avez vu jusqu'à présent. Vous pouvez utiliser le RNR, le LMCT, le GRU
+que vous avez vu jusqu'à présent. Vous pouvez utiliser le RNN, le LSTM, le GRU
 
 60
 00:04:11,080 --> 00:04:14,010
@@ -317,7 +317,7 @@ Vous voyez encore ici comment résoudre le problème de la reconnaissance des en
 
 80
 00:05:44,050 --> 00:05:47,830
-Mais dans la première présentation, vous avez vu comment utiliser un RNR,
+Mais dans la première présentation, vous avez vu comment utiliser un RNN,
 
 81
 00:05:47,830 --> 00:05:49,699
@@ -361,7 +361,7 @@ D'abord, je vais vous présenter le problème.
 
 91
 00:06:20,349 --> 00:06:28,270
-Voici donc un problème d'analyse de sentiments : c'est un problème de TLN où
+Voici donc un problème d'analyse de sentiments : c'est un problème de NLP où
 
 92
 00:06:28,270 --> 00:06:35,090
@@ -425,7 +425,7 @@ j'envoie cette entrée au modèle
 
 107
 00:07:33,330 --> 00:07:38,449
-et encore une fois, je ne précise pas le type de modèle : il peut s'agir d'un LMCT, d’un modèle avec auto-attention et ainsi de suite.
+et encore une fois, je ne précise pas le type de modèle : il peut s'agir d'un LSTM, d’un modèle avec auto-attention et ainsi de suite.
 
 108
 00:07:38,449 --> 00:07:44,150
@@ -653,7 +653,7 @@ qu'on appelle modèle.
 
 164
 00:11:49,540 --> 00:11:53,680
-Encore une fois, je ne précise pas le type de modèle : il peut s'agir d'un LMCT, d’un modèle avec auto-attention et ainsi de suite.
+Encore une fois, je ne précise pas le type de modèle : il peut s'agir d'un LSTM, d’un modèle avec auto-attention et ainsi de suite.
 
 165
 00:11:53,680 --> 00:11:58,009
