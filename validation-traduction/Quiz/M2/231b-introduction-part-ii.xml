@@ -4,7 +4,7 @@
     <choicegroup type="MultipleChoice">
       <choice correct="false">La fonction de perte <choicehint>la fonction de perte définit la surface de perte</choicehint></choice>
       <choice correct="false">La fonction d’activation <choicehint>non pertinente à la surface de perte</choicehint></choice>
-      <choice correct="false">L’optimiseur <choicehint>Optimizer Optimizer modifie les paramètres du modèle</choicehint></choice>
+      <choice correct="false">L’optimiseur <choicehint>Optimizer modifie les paramètres du modèle</choicehint></choice>
       <choice correct="true">Le gradient</choice>
     </choicegroup>
   </multiplechoiceresponse>
