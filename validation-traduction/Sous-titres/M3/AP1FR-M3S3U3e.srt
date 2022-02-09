@@ -96,7 +96,7 @@ un très grand ensemble de données de quelques millions d'images et nous avons 
 
 25
 00:02:04,610 --> 00:02:09,259
-Ils suivent tous ce patron de conception très similaire ; nous commençons par une RNC non entraîné,
+Ils suivent tous ce patron de conception très similaire ; nous commençons par une CNN non entraîné,
 
 26
 00:02:09,259 --> 00:02:12,860

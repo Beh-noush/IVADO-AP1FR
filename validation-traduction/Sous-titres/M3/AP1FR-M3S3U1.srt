@@ -32,7 +32,7 @@ idées plus complexes pour vos architectures. C'est essentiellement
 
 9
 00:00:47,660 --> 00:00:51,020
-ce qui se passe dans le monde des RNC : nous avons ces composantes de base et
+ce qui se passe dans le monde des CNN : nous avons ces composantes de base et
 
 10
 00:00:51,020 --> 00:00:55,160

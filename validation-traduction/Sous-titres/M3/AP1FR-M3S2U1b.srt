@@ -492,4 +492,4 @@ et de faire appel à votre intuition et à votre compréhension pour déchiffrer
 
 124
 00:10:11,280 --> 00:10:15,350
-quand on fait de la descente de gradient dans les RNC.
+quand on fait de la descente de gradient dans les CNN.

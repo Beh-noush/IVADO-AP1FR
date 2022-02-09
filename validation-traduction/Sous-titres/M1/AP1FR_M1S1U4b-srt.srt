@@ -1,6 +1,6 @@
 0
 00:00:14,690 --> 00:00:21,550
-Tournons-nous maintenant vers les mesures et les caractéristiques. Comme je l'ai dit, l'apprentissage profond (AP)
+Tournons-nous maintenant vers les mesures et les caractéristiques. Comme je l'ai dit, l'apprentissage profond (AP/DL)
 
 1
 00:00:21,550 --> 00:00:25,869
@@ -64,7 +64,7 @@ d'images. Vous devriez également connaître la largeur et la hauteur de l'image
 
 16
 00:01:44,040 --> 00:01:48,560
-nombre de canaux: considérez-vous les canaux RVB de cette image?
+nombre de canaux: considérez-vous les canaux RVB/RGB de cette image?
 
 17
 00:01:48,560 --> 00:01:52,860

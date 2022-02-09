@@ -1,6 +1,6 @@
 <problem>
 <choiceresponse>
-  <label>Sélectionnez trois déclarations véridiques sur le calcul des gradients dans les RNC.</label>
+  <label>Sélectionnez trois déclarations véridiques sur le calcul des gradients dans les CNN.</label>
 <checkboxgroup>
     <choice correct="true">A. La passe en avant peut être calculée en utilisant la multiplication matricielle <choicehint selected="true">A. Correct</choicehint></choice>
     <choice correct="true">B. Les gradients par rapport au poids du noyau peuvent être calculés en utilisant les convolutions <choicehint selected="true">B. Correct</choicehint></choice>

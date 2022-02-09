@@ -148,7 +148,7 @@ qu'échantillonner uniformément dans cet immense espace, d'avoir un échantillo
 
 37
 00:04:20,220 --> 00:04:26,450
-à un chiffre est très improbable. J'ai donc deux choses différentes, le
+a un chiffre est très improbable. J'ai donc deux choses différentes, le
 
 38
 00:04:26,450 --> 00:04:33,560
@@ -164,7 +164,7 @@ données qui sont probables, et c'est ça l'hypothèse de variété qui est trè
 
 41
 00:04:43,900 --> 00:04:49,460
-importante dans en apprentissage automatique: nous représentons nos données dans des
+importante en apprentissage automatique: nous représentons nos données dans des
 
 42
 00:04:49,460 --> 00:04:55,620

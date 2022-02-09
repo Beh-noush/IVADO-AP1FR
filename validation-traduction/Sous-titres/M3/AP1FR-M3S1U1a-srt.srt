@@ -85,7 +85,7 @@ Ils ont été vraiment conçus pour traiter des données avec une structure en f
 
 22
 00:01:47,400 --> 00:01:51,720
-structure en forme de grille signifie? One entend que les données ont un aspect temporel, par
+structure en forme de grille signifie? On entend que les données ont un aspect temporel, par
 
 23
 00:01:51,720 --> 00:01:58,200
@@ -174,7 +174,7 @@ Nous allons parler d'AlexNet beaucoup plus tard dans la journée, nous explorero
 
 44
 00:03:30,239 --> 00:03:34,109
-En profondeur ce qu'était AlexNet et ce qu'était ImageNet, une
+en profondeur ce qu'était AlexNet et ce qu'était ImageNet, une
 
 45
 00:03:34,109 --> 00:03:38,400
@@ -253,7 +253,7 @@ Notre réseau pourrait d'abord se concentrer sur un ensemble de caractéristique
 
 63
 00:04:53,699 --> 00:04:57,960
-des roues, puis cela se transmet èa travers notre réseau, puis nous
+des roues, puis cela se transmet à travers notre réseau, puis nous
 
 64
 00:04:57,960 --> 00:05:01,710

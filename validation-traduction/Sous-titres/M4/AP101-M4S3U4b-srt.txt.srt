@@ -32,7 +32,7 @@ parce qu'il génère des vecteurs-mots selon un algorithme très efficace et
 
 9
 00:00:56,370 --> 00:01:00,670
-c'est aussi celui qui a vraiment répandu cette idée de vecteurs-mots dans le domaine du TLN.
+c'est aussi celui qui a vraiment répandu cette idée de vecteurs-mots dans le domaine du NLP.
 
 10
 00:01:00,670 --> 00:01:07,060

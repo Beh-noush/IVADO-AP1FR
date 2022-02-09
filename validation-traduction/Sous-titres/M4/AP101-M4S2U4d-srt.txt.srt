@@ -228,7 +228,7 @@ représentation encodée. À ce stade, il nous reste une seule chose à faire :
 
 58
 00:05:42,960 --> 00:05:47,760
-nous avons mentionné deux problèmes au début, nous avons dit que les RNR ne sont pas faciles à
+nous avons mentionné deux problèmes au début, nous avons dit que les RNN ne sont pas faciles à
 
 59
 00:05:47,760 --> 00:05:52,740
@@ -288,7 +288,7 @@ vous comprenez l'idée. Nous n'avons plus le problème de
 
 73
 00:07:06,240 --> 00:07:12,450
-cette chaîne de calcul que les RNR impliquaient. Le deuxième problème avec les RNR est
+cette chaîne de calcul que les RNN impliquaient. Le deuxième problème avec les RNN est
 
 74
 00:07:12,450 --> 00:07:18,060
@@ -296,7 +296,7 @@ les dépendances à long terme et maintenant nous n'avons plus ce problème.
 
 75
 00:07:18,060 --> 00:07:22,650
-Cela posait problème parce que dans le RNR, supposons que nous avons
+Cela posait problème parce que dans le RNN, supposons que nous avons
 
 76
 00:07:22,650 --> 00:07:29,160
@@ -308,7 +308,7 @@ proviennent de x_5 mais aussi de x_0. Si j'ai beaucoup d’étapes,
 
 78
 00:07:35,190 --> 00:07:39,270
-cela pose problème avec les RNR car l'information doit passer par
+cela pose problème avec les RNN car l'information doit passer par
 
 79
 00:07:39,270 --> 00:07:44,030

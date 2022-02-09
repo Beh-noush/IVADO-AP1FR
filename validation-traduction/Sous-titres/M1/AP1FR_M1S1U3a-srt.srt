@@ -240,7 +240,7 @@ enregistrer le code et nous avons une version du code qui a été utilisé pour 
 
 60
 00:05:41,590 --> 00:05:46,780
-expérience. Nous entrons ensuite un peu plus dans le contexte de l'AA:
+expérience. Nous entrons ensuite un peu plus dans le contexte du ML:
 
 61
 00:05:46,780 --> 00:05:52,300
@@ -284,7 +284,7 @@ graine aléatoire , alors une expérience peut être non-reproductible. Maintena
 
 71
 00:06:45,280 --> 00:06:49,389
-pensez surement: il y a beaucoup à enregistrer. Peut-être que vous faites déjà de l'AA
+pensez surement: il y a beaucoup à enregistrer. Peut-être que vous faites déjà du ML
 
 72
 00:06:49,389 --> 00:06:54,789
@@ -316,7 +316,7 @@ enregistrez toutes ces informations, je vous conseille d'utiliser une
 
 79
 00:07:30,689 --> 00:07:38,829
-plateforme d'AA pour gérer vos expériences comme MLflow. Vous pouvez voir ici que sur
+plateforme de ML pour gérer vos expériences comme MLflow. Vous pouvez voir ici que sur
 
 80
 00:07:38,829 --> 00:07:44,379
@@ -372,7 +372,7 @@ c'est l'algorithme d' apprentissage qui trouvera comment réaliser la tâche. Po
 
 93
 00:08:55,029 --> 00:08:59,319
-IA, tout les moyens sont bons pour réaliser une tâche. S'il existe un moyen facile de
+AI, tout les moyens sont bons pour réaliser une tâche. S'il existe un moyen facile de
 
 94
 00:08:59,319 --> 00:09:03,330
@@ -380,7 +380,7 @@ réaliser la tâche car il y a un bug dans votre jeu de données ou un bug
 
 95
 00:09:03,330 --> 00:09:10,589
-dans un simulateur, vous pouvez être sûr que l'IA utilisera cette faille, cette bug
+dans un simulateur, vous pouvez être sûr que l'AI utilisera cette faille, cette bug
 
 96
 00:09:10,589 --> 00:09:17,519

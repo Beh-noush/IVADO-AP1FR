@@ -1,10 +1,10 @@
 ﻿1
 00:00:13,299 --> 00:00:20,779
-Donc maintenant nous en savons un peu plus sur le TLN. En particulier, nous avons vu des exemples.
+Donc maintenant nous en savons un peu plus sur le NLP. En particulier, nous avons vu des exemples.
 
 2
 00:00:20,779 --> 00:00:28,519
-Une chose intéressante dans le TLN est que lorsque nous résolvons ces problèmes, ce que nous intéresse vraiment
+Une chose intéressante dans le NLP est que lorsque nous résolvons ces problèmes, ce que nous intéresse vraiment
 
 3
 00:00:28,519 --> 00:00:36,350
@@ -52,7 +52,7 @@ l'image montre qu'il pleut beaucoup. Donc l'intuition ici est que
 
 14
 00:01:45,320 --> 00:01:53,030
-quand nous avons une tâche de TANL. Nous nous intéressons à la sémantique, donc cette partie qui est montrée sur l’image,
+quand nous avons une tâche de NLP, nous nous intéressons à la sémantique, donc cette partie qui est montrée sur l’image,
 
 15
 00:01:53,030 --> 00:01:58,159
@@ -184,11 +184,11 @@ et depuis la première présentation même. Comme dans le tout premier exemple,
 
 47
 00:05:04,460 --> 00:05:09,080
-avec le RNR qui tenait de résoudre le cas « Alan Turing vivait en Angleterre » ; nous appliquions déjà cette principe
+avec le RNN qui tenait de résoudre le cas « Alan Turing vivait en Angleterre » ; nous appliquions déjà cette principe
 
 48
 00:05:09,080 --> 00:05:14,180
-parce que nous essayions de assembler les différents mots,
+parce que nous essayions d'assembler les différents mots,
 
 49
 00:05:14,180 --> 00:05:19,550
@@ -196,7 +196,7 @@ parce que nous essayions de assembler les différents mots,
 
 50
 00:05:19,550 --> 00:05:26,560
-l'état interne du RNR, pour permettre à ce dernier de faire la prédiction correcte pour la sortie.
+l'état interne du RNN, pour permettre à ce dernier de faire la prédiction correcte pour la sortie.
 
 51
 00:05:26,560 --> 00:05:34,729
@@ -244,7 +244,7 @@ le principe de compositionnalité, elles peuvent nous aider à
 
 62
 00:06:33,500 --> 00:06:41,419
-résoudre des tâches de TLN et notamment essayer de relier les mots à la sémantique.
+résoudre des tâches de NLP et notamment essayer de relier les mots à la sémantique.
 
 63
 00:06:41,419 --> 00:06:46,190
@@ -256,7 +256,7 @@ ce lien entre le contexte des mots et la sémantique.
 
 65
 00:06:51,870 --> 00:06:58,590
-Le principe de compositionnalité nous permet de d'aborder des tâches de TLN
+Le principe de compositionnalité nous permet de d'aborder des tâches de NLP
 
 66
 00:06:58,590 --> 00:07:02,430
@@ -276,7 +276,7 @@ nous commencerons par examiner des approches classiques et plus anciennes, c’e
 
 70
 00:07:20,520 --> 00:07:25,979
-les mots dans le passé en TLN et nous verrons qu'il y a quelques inconvénients et
+les mots dans le passé en NLP et nous verrons qu'il y a quelques inconvénients et
 
 71
 00:07:25,979 --> 00:07:32,340

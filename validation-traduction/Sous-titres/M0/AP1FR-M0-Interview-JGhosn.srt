@@ -180,7 +180,7 @@ les réseaux de neurones récurrents traditionnels, nous décrivons certains des
 
 45
 00:03:40,760 --> 00:03:44,185
-des variantes qui ont été développées pour faire face à ces problèmes comme les LMCT,
+des variantes qui ont été développées pour faire face à ces problèmes comme les LMCT/LSTM,
 
 46
 00:03:44,209 --> 00:03:49,406
@@ -188,7 +188,7 @@ les modèles de longue mémoire à court terme ou les unités récurrentes à po
 
 47
 00:03:49,430 --> 00:03:56,056
-mécanisme d'attention qui a conduit à une grande percée dans le domaine du TLN (traitement du langage naturel).
+mécanisme d'attention qui a conduit à une grande percée dans le domaine du TLN/NLP (traitement du langage naturel).
 
 48
 00:03:56,080 --> 00:04:01,376
@@ -220,7 +220,7 @@ si vous avez les mêmes propriétés sémantiques ou syntaxiques, nous voulons
 
 55
 00:04:26,419 --> 00:04:32,786
-avoir la même représentation. Et nous parlons également de biais et de discrimination dans l'IA.
+avoir la même représentation. Et nous parlons également de biais et de discrimination dans l'IA/l'AI.
 
 56
 00:04:32,810 --> 00:04:37,576
@@ -304,7 +304,7 @@ partenaires industriels. Et puis il y avait une autre personne
 
 76
 00:06:07,150 --> 00:06:11,895
-à l'école qui a fait la présentation sur les préjugés et la discrimination en matière d'IA. Il
+à l'école qui a fait la présentation sur les préjugés et la discrimination en matière d'AI. Il
 
 77
 00:06:11,919 --> 00:06:16,486

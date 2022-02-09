@@ -56,7 +56,7 @@ Il a permis d’améliorer considérablement les résultats de nombreuses tâche
 
 15
 00:01:36,350 --> 00:01:41,689
-si vous avez des tâches de TLN que vous voulez résoudre, au moins pour obtenir une très bonne référence.
+si vous avez des tâches de NLP que vous voulez résoudre, au moins pour obtenir une très bonne référence.
 
 16
 00:01:41,689 --> 00:01:49,070
@@ -64,7 +64,7 @@ Alors quelle est la différence entre BERT et ELMo?
 
 17
 00:01:49,070 --> 00:01:55,670
-BERT est basée sur l'architecture des transformateurs. Si vous vous souvenez bien, ELMo était basée sur les LMCT
+BERT est basée sur l'architecture des transformateurs. Si vous vous souvenez bien, ELMo était basée sur les LSTM
 
 18
 00:01:55,670 --> 00:02:00,320

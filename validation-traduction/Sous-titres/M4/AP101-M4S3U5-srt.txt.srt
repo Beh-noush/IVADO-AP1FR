@@ -136,7 +136,7 @@ C'est exactement ce que faisait Word2Vec ou FastText.
 
 35
 00:03:44,340 --> 00:03:49,049
-Pour ce faire, ELMo fonde la phase de pré-entraînement sur cette tâche appelée modèle de langage qui est une tâche importante en TLN aujourd’hui.
+Pour ce faire, ELMo fonde la phase de pré-entraînement sur cette tâche appelée modèle de langage qui est une tâche importante en NLP aujourd’hui.
 
 36
 00:03:49,049 --> 00:03:57,229
@@ -184,7 +184,7 @@ Nous pouvons continuer à faire cette opération. Nous saisissons en entrée le 
 
 47
 00:04:56,310 --> 00:05:01,979
-et le modèle devrait produire le monde « lived » et ainsi de suite.
+et le modèle devrait produire le mot « lived » et ainsi de suite.
 
 48
 00:05:01,979 --> 00:05:07,380
@@ -236,7 +236,7 @@ C'est très intéressant car, comme nous l'avons mentionné dans la première pr
 
 60
 00:06:03,180 --> 00:06:07,830
-parfois nous avons des LMCT ou RNR bidirectionnels et
+parfois nous avons des LSTM ou RNN bidirectionnels et
 
 61
 00:06:07,830 --> 00:06:14,099
@@ -248,7 +248,7 @@ Alors examinons l'architecture du modèle d'ELMo.
 
 63
 00:06:23,880 --> 00:06:33,680
-En fait, le modèle ELMo est un LMCT bidirectionnel à N couches. Donc le modèle ELMo est basé sur les LMCT
+En fait, le modèle ELMo est un LSTM bidirectionnel à N couches. Donc le modèle ELMo est basé sur les LSTM
 
 64
 00:06:33,680 --> 00:06:39,090
@@ -284,7 +284,7 @@ la représentation contextualisée des vecteurs-mots.
 
 72
 00:07:23,639 --> 00:07:30,330
-Si vous vous souvenez bien du fonctionnement du RNR, il crée cet état interne qui
+Si vous vous souvenez bien du fonctionnement du RNN, il crée cet état interne qui
 
 73
 00:07:30,330 --> 00:07:34,020

@@ -772,7 +772,7 @@ l'optimisation hyperparamétrique. L'un de ces outils est Orion qui a également
 
 193
 00:13:21,000 --> 00:13:28,700
-au Mila et cela vous permet de modifier certains paramètres d'une manière automatisée. Tout au long de
+à Mila et cela vous permet de modifier certains paramètres d'une manière automatisée. Tout au long de
 
 194
 00:13:28,700 --> 00:13:30,880

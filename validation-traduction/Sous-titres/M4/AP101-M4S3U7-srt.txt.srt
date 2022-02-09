@@ -4,11 +4,11 @@
 
 2
 00:00:16,820 --> 00:00:20,860
-Donc nous avons introduit les tâches de TLN
+Donc nous avons introduit les tâches de NLP
 
 3
 00:00:20,860 --> 00:00:23,180
-et nous avons vu qu'il y a beaucoup de tâches de TLN.
+et nous avons vu qu'il y a beaucoup de tâches de NLP.
 
 4
 00:00:23,180 --> 00:00:26,850

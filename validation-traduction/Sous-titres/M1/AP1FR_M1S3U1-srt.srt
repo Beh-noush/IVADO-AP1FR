@@ -1,6 +1,6 @@
 0
 00:00:14,049 --> 00:00:18,609
-Bonjour, je m'appelle Jeremy et je suis scientifique en recherche appliquée au MILA, et aujourd'hui
+Bonjour, je m'appelle Jeremy et je suis scientifique en recherche appliquée à MILA, et aujourd'hui
 
 1
 00:00:18,609 --> 00:00:22,180
